@@ -1,7 +1,7 @@
 # Report on Restaurant Data Analysis and Insights
 
 ## Overview
-This report presents an in-depth analysis of a restaurant dataset to understand customer satisfaction, segment customers based on their behavior, and optimize operational strategies. Using various data preprocessing techniques, predictive modeling, customer segmentation, and pricing strategy analysis, we aim to provide actionable insights to improve restaurant operations and customer satisfaction.
+This report presents an in-depth analysis of a restaurant dataset to understand customer satisfaction, segment customers based on their behavior, and optimize operational strategies. Using various data preprocessing techniques, predictive modeling, customer segmentation, and pricing strategy analysis, I aim to provide actionable insights to improve restaurant operations and customer satisfaction.
 
 ## Table of Contents
 1. [Overview](#overview)
