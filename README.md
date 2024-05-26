@@ -1,7 +1,28 @@
 # Report on Restaurant Data Analysis and Insights
 
-## Objective
-The objective of this analysis is to gain insights into customer satisfaction, segment customers based on their behavior, and optimize operational strategies using the restaurant dataset.
+## Overview
+This report presents an in-depth analysis of a restaurant dataset to understand customer satisfaction, segment customers based on their behavior, and optimize operational strategies. Using various data preprocessing techniques, predictive modeling, customer segmentation, and pricing strategy analysis, we aim to provide actionable insights to improve restaurant operations and customer satisfaction.
+
+## Table of Contents
+1. [Overview](#overview)
+2. [Introduction](#introduction)
+3. [Data Preprocessing](#data-preprocessing)
+4. [Predictive Modeling](#predictive-modeling)
+   - [Evaluation Metrics](#evaluation-metrics)
+   - [Key Insights from Feature Importance](#key-insights-from-feature-importance)
+5. [Customer Segmentation](#customer-segmentation)
+   - [Cluster Descriptions](#cluster-descriptions)
+6. [Insights](#insights)
+   - [Table Booking](#table-booking)
+   - [Online Delivery](#online-delivery)
+7. [Pricing Strategy Analysis](#pricing-strategy-analysis)
+   - [Findings](#findings)
+8. [Summary of Findings](#summary-of-findings)
+
+## Introduction
+In the competitive restaurant industry, understanding customer satisfaction and behavior is crucial for success. This report leverages data analysis techniques to provide insights into key factors influencing customer satisfaction, identify distinct customer segments, and explore the impact of operational strategies such as table booking and online delivery on customer ratings. Additionally, the report examines the relationship between pricing and customer satisfaction to inform pricing strategies.
+
+By employing a combination of data preprocessing, predictive modeling, clustering, and visualization techniques, this report aims to offer comprehensive insights that can help restaurant managers make data-driven decisions to enhance customer satisfaction, optimize services, and improve overall business performance.
 
 ## Data Preprocessing
 - **Handling Missing Values**: Filled missing values in the 'Cuisines' column with 'Unknown'.
